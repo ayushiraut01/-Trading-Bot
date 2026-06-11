@@ -48,7 +48,7 @@ trading_bot/
 ### 2. Clone / Download
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ayushiraut01/-Trading-Bot
 cd trading_bot
 ```
 
@@ -76,8 +76,8 @@ cp .env.example .env
 Open `.env` and fill in your Binance Futures Testnet API key and secret:
 
 ```
-BINANCE_API_KEY=your_testnet_api_key_here
-BINANCE_API_SECRET=your_testnet_api_secret_here
+BINANCE_API_KEY= 
+BINANCE_API_SECRET=
 ```
 
 > **Note:** Credentials can also be exported as shell environment variables instead of using `.env`.
